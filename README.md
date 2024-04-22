@@ -1,10 +1,10 @@
 # Editor HTML
 
-Um editor simples de HTML em C#.
+Este é um editor simples de HTML desenvolvido em C# que permite criar, editar e visualizar arquivos TXT. Com este editor, você pode fazer pequenas formatações em seu texto.
 
 ## Funcionalidades
 
-- **Novo Arquivo:** Crie um novo arquivo HTML.
+- **Novo Arquivo:** Crie um novo arquivo TXT.
 - **Abrir:** Abra um arquivo existente.
 - **Modo Editor:** Edite o conteúdo do arquivo.
 - **Modo Visualização:** Visualize o arquivo com formatação.
