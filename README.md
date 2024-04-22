@@ -44,4 +44,4 @@ Sinta-se à vontade para contribuir com melhorias ou correções de bugs! Basta 
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
